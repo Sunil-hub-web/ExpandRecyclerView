@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_height">14dp</dimen>
+
+    <dimen name="home_image_height">130dp</dimen>
+    <dimen name="home_image_width">150dp</dimen>
+
+    <dimen name="viewpager_height">168dp</dimen>
+
+    <dimen name="myorder_image_height">76dp</dimen>
+    <dimen name="myorder_image_width">86dp</dimen>
+
+    <dimen name="marginleft">20dp</dimen>
+
+    <dimen name="cart_image_height">120dp</dimen>
+    <dimen name="cart_image_width">130dp</dimen>
+
+    <dimen name="detailsPayment_button_height">44dp</dimen>
+    <dimen name="detailsPayment_button_width">237dp</dimen>
+
+    <dimen name="detailsPayment_addmoney_button_height">42dp</dimen>
+    <dimen name="detailsPayment_addmoney_button_width">100dp</dimen>
+
+    <dimen name="admin_image_height">40dp</dimen>
+    <dimen name="admin_image_width">40dp</dimen>
+
+    <dimen name="cart_button_height">42dp</dimen>
+    <dimen name="cart_button_width">120dp</dimen>
+
+    <dimen name="chat_image_height">30dp</dimen>
+    <dimen name="chat_image_width">30dp</dimen>
+
+    <dimen name="detailsPayment_card_height">100dp</dimen>
+
+    <dimen name="profile_image_height">75dp</dimen>
+    <dimen name="profile_image_width">75dp</dimen>
+
+    <dimen name="payment_card_height">72dp</dimen>
+    <dimen name="nav_card_height">220dp</dimen>
+
+    <dimen name="cart_butt_height">61dp</dimen>
+    <dimen name="cart_butt_width">151dp</dimen>
+
+    <dimen name="home_butt_width">125dp</dimen>
+    <dimen name="chat_typing_width">261dp</dimen>
+
+
+    <dimen name="chat_messageBox_height">70dp</dimen>
+    <dimen name="chat_messageBox_width">203dp</dimen>
+
+
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <!-- <androidx.appcompat.widget.SearchView
+         android:layout_width="match_parent"
+         android:layout_height="60dp"
+         android:id="@+id/serach_view"
+         app:searchIcon="@drawable/loupe"
+         app:closeIcon="@drawable/baseline_close">
+
+     </androidx.appcompat.widget.SearchView>-->
+
+     <EditText
+         android:id="@+id/serach_view"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:background="@drawable/serachback"
+         android:layout_margin="15dp"
+         android:padding="12dp"
+         android:drawablePadding="20dp"
+         android:hint="@string/serach_here"
+         android:drawableLeft="@drawable/loupe"
+         android:drawableStart="@drawable/loupe">
+
+     </EditText>
+
+
+     <androidx.recyclerview.widget.RecyclerView
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:id="@+id/recycler"
+         android:layout_marginTop="30dp"
+         android:layout_below="@id/serach_view">
+
+     </androidx.recyclerview.widget.RecyclerView>
+
+</RelativeLayout>

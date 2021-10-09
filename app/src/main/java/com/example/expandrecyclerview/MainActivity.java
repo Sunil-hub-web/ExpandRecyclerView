@@ -115,7 +115,7 @@ public class MainActivity extends AppCompatActivity implements RecyclerViewClick
 
     }
 
-   /* public void filter(CharSequence charSequence){
+    /*public void filter(CharSequence charSequence){
 
         ArrayList<PaymentDetails> tempArrayList = new ArrayList<PaymentDetails>();
 
@@ -129,8 +129,8 @@ public class MainActivity extends AppCompatActivity implements RecyclerViewClick
                 paymentDetailsAdapter.filterList(tempArrayList);
             }
         }
-    }
-*/
+    }*/
+
    /* private void filter(String newText) {
 
         ArrayList<PaymentDetails> filteredList = new ArrayList<>();

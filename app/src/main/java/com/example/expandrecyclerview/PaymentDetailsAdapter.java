@@ -47,10 +47,11 @@ public class PaymentDetailsAdapter extends RecyclerView.Adapter<PaymentDetailsAd
         this.payment3.addAll(payment);
     }
 
-  /*  public void filterList(ArrayList<PaymentDetails> filteredList) {
+   /* public void filterList(ArrayList<PaymentDetails> filteredList) {
 
         this.payment1 = filteredList;
         notifyDataSetChanged();
+
     }*/
 
 
@@ -181,7 +182,6 @@ public class PaymentDetailsAdapter extends RecyclerView.Adapter<PaymentDetailsAd
             });
 
 
-/*
 
             itemView.setOnClickListener(new View.OnClickListener() {
                 @Override
@@ -200,7 +200,6 @@ public class PaymentDetailsAdapter extends RecyclerView.Adapter<PaymentDetailsAd
                 }
             });
 
-*/
 
         }
     }
